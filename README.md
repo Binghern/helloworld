@@ -1,4 +1,4 @@
-# helloworld
+# hello-world
 Just other reponsitory
 
 Hi Humans!
